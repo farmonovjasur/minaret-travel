@@ -1,0 +1,113 @@
+{
+  "about": "Biz haqimizda",
+  "services": "Xizmatlar",
+  "register": "Ro‘yxatdan o‘tish",
+  "contact": "Kontakt",
+  "language": "UZ",
+  "english": "Inglizcha",
+  "russian": "Ruscha",
+  "uzbek": "O‘zbekcha",
+  "heroTitle": "Sizning sayohatingiz shu yerdan boshlanadi",
+  "heroSubtitle": "Biz bilan yangi joylarni kashf eting, sarguzashtlar kutmoqda.",
+  "aboutSection": {
+    "title": "Biz haqimizda",
+    "description": "Minaret Travel – yosh va maqsadli sayyohlik kompaniyasi bo'lib, sizga noyob sayohatlar va haqiqiy madaniy tajribalarni taklif etadi.",
+    "cards": [
+      {
+        "title": "Rasmiy hujjatlar",
+        "desc": "Kompaniyamiz litsenziyalangan va davlat tomonidan ro‘yxatdan o‘tgan."
+      },
+      {
+        "title": "Ofis",
+        "desc": "Buxoro shahrida zamonaviy ofisimiz mavjud"
+      },
+      {
+        "title": "Sertifikat",
+        "desc": "Xodimlarimiz xalqaro darajada sertifikatlangan mutaxassislar."
+      }
+    ]
+  },
+  "servicesSection": {
+    "title": "Bizning Xizmatlarimiz",
+    "description": "Qadam-baqadam sizning sayohatingizni qulay va unutilmas qilamiz.",
+    "timeline": [
+      {
+        "step": "1-qadam",
+        "title": "Sayohat transporti",
+        "desc": "Qulay va xavfsiz avtobus hamda mashinalar bilan manzilingizga yetib boring.",
+        "icon": "lni lni-bus"
+      },
+      {
+        "step": "2-qadam",
+        "title": "Mehmonxona bronlash",
+        "desc": "Siz uchun tekshirilgan va qulay mehmonxonalarni tanlab beramiz.",
+        "icon": "lni lni-home"
+      },
+      {
+        "step": "3-qadam",
+        "title": "Madaniy dasturlar",
+        "desc": "Mahalliy festivallar va an’analar orqali madaniyatni his eting.",
+        "icon": "lni lni-mic"
+      },
+      {
+        "step": "4-qadam",
+        "title": "Gid xizmati",
+        "desc": "Professional gidlar shaharning sirlarini sizga ochib beradi.",
+        "icon": "lni lni-users"
+      },
+      {
+        "step": "5-qadam",
+        "title": "Rasmiy hujjatlar",
+        "desc": "Viza va boshqa hujjatlarni tez va ishonchli tayyorlashda yordam beramiz.",
+        "icon": "lni lni-briefcase"
+      },
+      {
+        "step": "6-qadam",
+        "title": "24/7 qo‘llab-quvvatlash",
+        "desc": "Onlayn support jamoamiz sizni istalgan vaqtda qo‘llab-quvvatlaydi.",
+        "icon": "lni lni-headphone"
+      }
+    ],
+    "socialProof": "10,000+ sayohatchi bizga ishonch bildirdi."
+  },
+  "registerSection": {
+    "title": "Sayohat uchun ro‘yxatdan o‘tish",
+    "description": "Tafsilotlaringizni qoldiring — biz siz bilan bog‘lanib, bronni tasdiqlaymiz.",
+    "firstName": "Ism",
+    "lastName": "Familya",
+    "phone": "Telefon (O‘zbekiston)",
+    "phoneHint": "+998 dan keyin 9 ta raqam kiriting, masalan 901234567",
+    "country": "Sayohat qilmoqchi bo‘lgan davlat",
+    "message": "Talab / izoh",
+    "placeholders": {
+      "firstName": "Ali",
+      "lastName": "Valiyev",
+      "phone": "901234567",
+      "country": "Davlatni tanlang",
+      "message": "Talaklif va savollarnigizni yozing..."
+    },
+    "loadingCountries": "Davlatlar yuklanmoqda...",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Rahmat — so‘rovingiz yuborildi. Tez orada bog‘lanamiz.",
+    "error": "Xatolik yuz berdi. Iltimos keyinroq urinib ko‘ring.",
+    "noteLabel": "Eslatma",
+    "noteText": "Tez orada siz bilan bog‘lanamiz",
+    "validation": {
+      "firstName": "Iltimos ismingizni kiriting.",
+      "lastName": "Iltimos familyangizni kiriting.",
+      "phone": "Iltimos telefon raqamingizni kiriting.",
+      "phoneFormat": "Telefon +998 dan keyin 9 ta raqamdan iborat bo‘lishi kerak.",
+      "country": "Iltimos davlatni tanlang.",
+      "message": "Iltimos talab yoki izoh kiriting."
+    }
+  },
+    "contactSection": {
+    "title": "Biz bilan bog'laning",
+    "phone": "Telefon",
+    "address": "Manzil"
+  },
+    "footer": {
+    "rights": "Barcha huquqlar himoyalangan"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "about": "About Us",
+  "services": "Services",
+  "register": "Register",
+  "contact": "Contact",
+  "language": "EN",
+  "english": "English",
+  "russian": "Russian",
+  "uzbek": "Uzbek",
+  "heroTitle": "Your journey start here",
+  "heroSubtitle": "Discover new places with us, adventure awaits.",
+  "aboutSection": {
+    "title": "About Us",
+    "description": "Minaret Travel is a young and purposeful travel company that offers you unique trips and authentic cultural experiences.",
+    "cards": [
+      {
+        "title": "Official documents",
+        "desc": "Our company is licensed and registered with the state."
+      },
+      {
+        "title": "Office",
+        "desc": "We have a modern office in Bukhara."
+      },
+      {
+        "title": "Certificate",
+        "desc": "Our employees are internationally certified professionals."
+      }
+    ]
+  },
+  "servicesSection": {
+    "title": "Our Services",
+    "description": "Step by step we make your journey smooth and unforgettable.",
+    "timeline": [
+      {
+        "step": "Step 1",
+        "title": "Travel Transport",
+        "desc": "Safe and comfortable buses and cars to take you to your destination stress-free.",
+        "icon": "lni lni-bus"
+      },
+      {
+        "step": "Step 2",
+        "title": "Hotel Reservations",
+        "desc": "Verified and cozy hotels carefully selected for your stay.",
+        "icon": "lni lni-home"
+      },
+      {
+        "step": "Step 3",
+        "title": "Cultural Programs",
+        "desc": "Join local festivals and traditions for an authentic cultural experience.",
+        "icon": "lni lni-mic"
+      },
+      {
+        "step": "Step 4",
+        "title": "Guide Service",
+        "desc": "Professional guides will reveal the secrets of each city.",
+        "icon": "lni lni-users"
+      },
+      {
+        "step": "Step 5",
+        "title": "Official Documents",
+        "desc": "Quick and reliable assistance with visas and travel documents.",
+        "icon": "lni lni-briefcase"
+      },
+      {
+        "step": "Step 6",
+        "title": "24/7 Support",
+        "desc": "Our online support team is always ready to assist you anytime, anywhere.",
+        "icon": "lni lni-headphone"
+      }
+    ],
+    "socialProof": "Over 10,000+ happy travelers trusted us."
+  },
+  "registerSection": {
+    "title": "Register for a trip",
+    "description": "Leave your details and we'll contact you to finalize the booking.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone (Uzbekistan)",
+    "phoneHint": "Enter 9 digits after +998, e.g. 901234567",
+    "country": "Destination Country",
+    "message": "Your request / notes",
+    "placeholders": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "901234567",
+      "country": "Select country",
+      "message": "Write your suggestions and questions..."
+    },
+    "loadingCountries": "Loading countries...",
+    "submit": "Send",
+    "sending": "Sending...",
+    "success": "Thank you — your request has been sent. We will contact you soon.",
+    "error": "Something went wrong. Please try again later.",
+    "noteLabel": "Note",
+    "noteText": "We will contact you shortly",
+    "validation": {
+      "firstName": "Please enter your first name.",
+      "lastName": "Please enter your last name.",
+      "phone": "Please enter your phone number.",
+      "phoneFormat": "Phone must be 9 digits (without +998).",
+      "country": "Please select a country.",
+      "message": "Please add your request or preferences."
+    }
+  },
+    "contactSection": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "address": "Address"
+  },
+    "footer": {
+    "rights": "All rights reserved"
+  }
+}
