@@ -30,7 +30,7 @@ export default function Footer() {
           <a ref={(el) => (iconsRef.current[1] = el)} href="https://www.instagram.com/minaret_travel_group?igsh=dHVjbnFvaDNnNnE=" className="text-gray-100 text-2xl">
             <i className="lni lni-instagram-original"></i>
           </a>
-          <a ref={(el) => (iconsRef.current[2] = el)} href="https://t.me/+LaK9XjzWCA9hNTYy" className="text-gray-100 text-2xl">
+          <a ref={(el) => (iconsRef.current[2] = el)} href="https://t.me/MinaretTravelGroup" className="text-gray-100 text-2xl">
             <i className="lni lni-telegram-original"></i>
           </a>
         </div>

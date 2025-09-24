@@ -123,7 +123,7 @@ export default function Header() {
     <div className={`flex ${isMobile ? "justify-center gap-6 mt-6" : "items-center gap-4"}`}>
       {[
         { href: "https://www.instagram.com/minaret_travel_group?igsh=dHVjbnFvaDNnNnE=", icon: "lni-instagram", label: "Instagram" },
-        { href: "https://t.me/+LaK9XjzWCA9hNTYy", icon: "lni-telegram", label: "Telegram" },
+        { href: "https://t.me/MinaretTravelGroup", icon: "lni-telegram", label: "Telegram" },
         { href: "https://www.facebook.com/share/14NRdApscG1/", icon: "lni-facebook", label: "Facebook" },
       ].map((social) => (
         <a
