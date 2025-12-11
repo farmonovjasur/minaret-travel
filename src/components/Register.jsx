@@ -38,7 +38,7 @@ export default function Register() {
   const fieldsRef = useRef([]);
 
   const GOOGLE_SCRIPT_URL =
-    "https://script.google.com/macros/s/AKfycbxjFQkGSY8tB3HKqWORHeol1cAi4PQs7hfIDuSgyDCDMioRW6J7IkXor-f41uZRH8cixw/exec";
+    "https://script.google.com/macros/s/AKfycbzFxU_NVVdCf6eQVQKyOC6joXMVkx6Zf1E198sHnhcNmgLEnnFqOv3NEta-K92bFNDc4Q/exec";
 
   // Countries load
   useEffect(() => {
